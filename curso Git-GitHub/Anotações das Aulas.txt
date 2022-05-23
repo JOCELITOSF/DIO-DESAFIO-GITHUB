@@ -1,9 +1,23 @@
+#ANOTAÇÕES DAS AULAS GIT/GITHUB
+
+para que serve e o que é o GIt
+
+-Controle de versão 
+-Armazenamento em nuvem
+-trabalo em equipe
+-Melhorar meu codigo
+-Reconhecimento
 
 
 gitbash - 
-� um terminal estendido  para otimizar o uso do git.
+é um terminal estendido  para otimizar o uso do git.
 
+comandao uteis
+control + L = limpa a tela
+ls - lista o que tem dentro do repositorio
 comandos importantes
-git init
-
+git init  - inicar um repositório
+git add  - serve para adiocionar e mover arquivos
+git commit - criar o commit 
+git commit -m " readme do commit"
 git status- da um status do repositorio atual. 

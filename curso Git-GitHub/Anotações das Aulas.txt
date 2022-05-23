@@ -1,0 +1,9 @@
+
+
+gitbash - 
+é um terminal estendido  para otimizar o uso do git.
+
+comandos importantes
+git init
+
+git status- da um status do repositorio atual. 
